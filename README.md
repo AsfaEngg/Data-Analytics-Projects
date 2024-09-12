@@ -1,4 +1,4 @@
 # Data-Analytics-Projects
-This Repository contain data Analysis Projects which uses only SQL and Advanced Excel
+This Repository contain  7 Data Analysis Projects which uses SQL and Advanced Excel.
 
-I will 
+ 
